@@ -1,5 +1,5 @@
-# Claims-Management-System
-This is Java Full-stack project built as part of Cognizant Internship.
+# ClaimEase
+Java Full-stack project 
 
 
 These are the following services provided:
@@ -88,7 +88,5 @@ The user can view the claim status at any time using the `Claim ID` generated in
 
 
 ## Developers
-* [Hrithik Raj Prasad](https://github.com/hrithikraj24)
-* [Hritick Roy](https://github.com/hr-02)
-* [Kanika Sharma](https://github.com/Kanika1012)
-* [Manan Kathuria](https://github.com/Mannan05)
+* [Nakshatra Kundan Raghuvanshi](https://github.com/Nakshatra1610)
+
