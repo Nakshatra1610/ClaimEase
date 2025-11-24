@@ -12,7 +12,7 @@ COPY src ./src
 RUN mvn clean package -DskipTests
 
 # Production image
-FROM openjdk:8-jre-slim
+FROM eclipse-temurin:8-jre
 
 WORKDIR /app
 
